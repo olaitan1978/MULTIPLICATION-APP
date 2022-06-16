@@ -1,0 +1,54 @@
+body{
+    background-color: orange;
+    text-align: center;
+}
+.contain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 125px;
+    width: 125px;
+    margin: auto;
+    font-size: 40px;
+    
+  
+}
+input{
+    margin: 12px;
+    border: green solid 6px;
+    font-weight: bolder;
+    font-size: large;
+    color: brown;
+}
+
+button{
+    height: 100px;
+    width: 200px;
+    font-weight: bolder;
+    font-size: larger;
+    background-color: chartreuse;   
+    border-radius: 50px;
+}
+#num1{
+    border: solid blue 25px;
+    height: 100px;
+    width: auto;
+    padding: 25px;
+    background-color: blanchedalmond;
+
+   
+}
+#num2{
+    border: solid green 25px;
+    height: 100px;
+    width: auto;
+    padding: 25px;
+    background-color: blanchedalmond;
+  
+}
+#ma{
+    background-color: mediumspringgreen;
+    border-radius: 50px;
+    color: red;
+    font-size: xx-large;
+}
